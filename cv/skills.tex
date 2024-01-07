@@ -1,0 +1,33 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Skills}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+% Define a custom command for a bold and underlined skill item
+\newcommand{\skillitem}[1]{%
+    \textbf{\underline{#1}}%
+    \quad
+}
+
+% Define a custom environment for skills with two columns
+\newenvironment{skills}{%
+    \raggedright%
+    \begin{itemize}[label={}, leftmargin=*]%
+}{%
+    \end{itemize}%
+}
+
+% Use the custom twocolumnskills environment for the skills section
+\begin{skills}
+    \item \skillitem{Python (Pandas)} \skillitem{HTML/CSS} \skillitem{C++} \skillitem{Java}
+\end{skills}%
+
+\divider
+
+\begin{skills}
+    \item \skillitem{Git/GitHub} \skillitem{MATLAB} \skillitem{LaTeX} \skillitem{Typst}
+\end{skills}
