@@ -1,3 +1,23 @@
+A two-columned resume created in LaTeX using [LianTze Lim's Overleaf LaTeX template](https://www.overleaf.com/latex/templates/recreating-business-insiders-cv-of-marissa-mayer/gtqfpbwncfvp).
+
+Originally, I created a two-columned resume online using Enhancv.com. 
+
+<a href="/Resume_Enhancv.pdf" class="image fit"><img src="/Resume_Enhancv.png" width="400" ></a>
+
+However, I realized later that I would have to pay to remove the watermark at the bottom of the page.
+
+<a href="https://app.enhancv.com/" class="image fit"><img src="https://github.com/zeshanbasaran/Resume_V1/assets/116126778/7791329e-20b8-4609-8f06-a5883286d39b" width="400" ></a>
+
+Instead of spending my hard-earned dinero, I set out to recreate this design using LianTze Lim's Overleaf LaTeX template as inspiration.
+
+<a href="https://github.com/liantze/AltaCV" class="image fit"><img src="https://github.com/zeshanbasaran/Resume_V1/assets/116126778/0e27b82d-e9ca-46cb-a0a3-37ceffbd04e7" width="400" ></a>
+
+And this is the result:
+
+<a href="/Resume_2023_December_30.pdf" class="image fit"><img src="/Resume_2023_December_30.png" width="400" ></a>
+
+ ---
+ 
 v1.8 (2 Dec 2023), by Zeshan Basaran (zeshan.basaran@gmail.com)
 
 * v1.8 (2 Dec 2023) changes:
