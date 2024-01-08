@@ -2,7 +2,7 @@ A two-columned resume created in LaTeX using [LianTze Lim's Overleaf LaTeX templ
 
 Originally, I created a two-columned resume online using Enhancv.com. 
 
-<a href="/Resume_Enhancv.pdf" class="image fit"><img src="/Resume_Enhancv.png" width="400" ></a>
+<a href="https://app.enhancv.com/" class="image fit"><img src="/Resume_Enhancv.png" width="400" ></a>
 
 However, I realized later that I would have to pay to remove the watermark at the bottom of the page.
 
@@ -12,7 +12,7 @@ Instead of spending my hard-earned dinero, I set out to recreate this design usi
 
 <a href="https://github.com/liantze/AltaCV" class="image fit"><img src="https://github.com/zeshanbasaran/Resume_V1/assets/116126778/0e27b82d-e9ca-46cb-a0a3-37ceffbd04e7" width="400" ></a>
 
-And this is the result:
+And this was the result:
 
 <a href="/Resume_2023_December_30.pdf" class="image fit"><img src="/Resume_2023_December_30.png" width="400" ></a>
 
